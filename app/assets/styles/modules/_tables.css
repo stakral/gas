@@ -1,0 +1,155 @@
+/* 
+    Table CSS Reset.
+    part of http://meyerweb.com/eric/tools/css/reset/ 
+    v2.0 | 20110126
+    License: none (public domain)
+*/
+
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+.gas-table-container {
+    width: 100%;
+    margin: 0 auto;
+    overflow-x: auto;
+
+    @mixin atMobileSmall {
+        width: 100%;
+    }
+    @mixin atMobileLarge {
+        width: 100%;
+    }
+    @mixin atiPhoneX {
+        width: 85%;
+    }
+
+    @mixin atTabletSmall {
+        width: 75%;
+    }
+
+    @mixin atTabletMedium {
+        width: 68%;
+    }
+
+    @mixin atLaptopLarge {
+        width: 50%;
+    }
+}
+
+
+/* Gas, Tarif, Users table */
+
+.gas-table {
+    min-width: 55rem;
+}
+.tarif-table {
+    min-width: 100%;
+}
+.gas-table, .tarif-table, .users-table, .tarif-table-add {
+    color: $darkGrey;
+    border-collapse: collapse;
+    margin: 0 auto;
+    overflow-x: auto;
+
+    thead, tbody, tfoot {
+        td, th {
+            padding: 0.25rem;
+            text-align: center;
+/*             border: 0 solid $lightGrey; */
+        }
+        .text-right {
+            text-align: right;
+            padding-right: 3%;
+        }
+    }
+    tbody {
+        tr:nth-child(odd) {
+            background: $lightGrey;
+        }
+        tr:hover {
+            background: $lightGreen-transparent;
+        }
+    }
+    th {
+        font-weight: 600;
+    }
+    tfoot {
+        color: $white;
+        background: $lightOrange;
+    }
+    .dark-layer {
+        background: $grey-transparent;
+    }
+    .table-link {
+        font-size: 0.8rem;
+        color: $black;
+        text-decoration: none;
+    }
+    .table-row-pricelist {
+        color: $white;
+        background: $darkGrey!important;        
+    }
+
+    &__col-1 {
+        width: 2.5%;
+    }
+    &__col-2 {
+        width: 9%;
+    }
+    &__col-3 {
+        width: 2.5%;
+    }
+    &__col-4 {
+        width: 9%;
+    }
+    &__col-5 {
+        width: 8%;
+    }
+    &__col-6 {
+        width: 8%;
+    }
+    &__col-7 {
+        width: 8%;
+    }
+    &__col-8 {
+        width: 8%;
+    }
+    &__col-9 {
+        width: 10%;
+    }
+    &__col-10 {
+        width: 8%;
+    }
+    &__col-11 {
+        width: 8%;
+    }
+
+}
+
+.tarif-table {
+    tbody {
+        td {
+            padding: 4px;
+            text-align: left;
+        }
+    }
+}
+.tarif-table-add {
+    tbody {
+        td {
+            padding: 1px;
+            text-align: left;
+        }
+    }
+}

@@ -1,0 +1,49 @@
+/* Buttons */
+
+.btn-borderless {
+    background-color: #fff;
+    color: #000;
+    padding: 4px 10px 5px 10px;
+}
+
+.btn-borderless:hover {
+    color: $darkGrey;
+}
+
+
+.button-ok {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #62D11D;
+    border-radius: 3px;
+    padding: 4px 10px 5px 10px;
+}
+
+.button-ok:hover {
+    background-color: #62D11D;
+    transition-duration: .2s;
+    color: #fff;
+}
+
+
+.button-cancel {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #f70517;
+    border-radius: 3px;
+    padding: 4px 10px 5px 10px;
+}
+
+.button-cancel:hover {
+    background-color: #f70517;
+    transition-duration: .2s;
+    color: #fff;
+}
+
+
+.button-right {
+    float: right;
+}
+.button-left {
+    float: left;
+}

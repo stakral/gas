@@ -1,0 +1,33 @@
+/* General CSS */
+
+body {
+    font-family: Tahoma, Geneva, Kalimati, sans-serif;
+    font-size: 14px;
+    width: 100%;
+    
+    /* To position footer to the bottom, regardless of content */
+    position: relative;
+    min-height: 100vh;
+}
+
+a {
+/*    font-size: 0.8em; */
+    color: $black;
+    text-decoration: none;
+}
+a:hover {
+    color: $orange;
+}
+
+.top-message-bar {
+    font-size: 0.8rem;
+    text-align: center;
+    color: $white;
+    background: $lightOrange;
+    padding: .2rem 0;
+    margin: 6px 0 0 0;
+}
+
+li {
+    padding: 3px 0;
+}

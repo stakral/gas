@@ -1,0 +1,41 @@
+/* CSS Tooltip */
+
+a.tooltip {
+    outline: none;
+}
+a.tooltip strong {
+    line-height: 5px;
+}
+a.tooltip:hover {
+    text-decoration: none;
+}
+a.tooltip span {
+    z-index: 10;
+    display: none;
+    padding: 4px 5px;
+    font-size: 0.8em;
+    margin-top: -4px;
+    margin-left: 10px;
+    max-width: 135px;
+    line-height: 14px;
+}
+a.tooltip:hover span {
+    font-family: Tahoma, Geneva, Kalimati, sans-serif;
+    display: inline;
+    position: absolute;
+    color: $black;
+    border: 1px solid $black;
+    background: $white;
+    text-align: left;
+}
+.callout {
+    z-index: 0;
+    position: absolute;
+    top: 15%;
+    border: 0;
+    left: -6px;
+}
+a.tooltip span {
+    border-radius: 6px;
+    /*    box-shadow: 5px 5px 8px #CCC; */
+}

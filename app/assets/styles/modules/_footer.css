@@ -1,0 +1,13 @@
+/* Footer */
+
+footer {
+    color: $lightGrey;
+    background: $darkGrey;
+    width: 100%;
+    /* To position footer to the bottom, regardless of content */
+    position: absolute;
+    bottom: 0;
+
+    text-align: center;
+    padding: 2rem 0;
+}

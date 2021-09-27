@@ -1,0 +1,28 @@
+/*  Pages with settings */
+
+.settings {
+    padding: 40px 25px 70px;
+    max-width: 700px;
+    height: auto;
+    margin: auto;
+    background-color: #fff;
+}
+
+#settings_params {
+    /*  pages with settings */
+    background-color: lightgray;
+    height: auto;
+    padding: 0px;
+}
+
+.settings_params {
+    padding: 20px 15px 15px;
+    max-width: 850px;
+    height: auto;
+    margin: auto;
+    background-color: #fff;
+}
+
+.container {
+    padding: 5px;
+}

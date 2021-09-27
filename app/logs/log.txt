@@ -1,0 +1,1058 @@
+2020-05-11 08:53:32 | PV 27 : Užívateľ "mirda" editovaný. 
+2020-05-11 08:54:33 | PV 27 : Odhlásenie. 
+2020-05-11 21:54:14 | SK 23 : Prihlásenie. 
+2020-05-13 11:50:40 | SK 23 : Nový protokol: 301/V/20 
+2020-05-13 12:06:08 | SK 23 : Protokol 301/V/20 upravený. 
+2020-05-13 12:20:43 | SK 23 : Protokol 301/V/20 skopírovaný. 
+2020-05-13 12:36:33 | SK 23 : Protokol 302/V/20 skopírovaný. 
+2020-05-13 12:38:49 | SK 23 : Protokol 302/V/20 upravený. 
+2020-05-13 12:38:59 | SK 23 : Protokol 302/V/20 upravený. 
+2020-05-13 12:41:07 | SK 23 : Protokol 302/V/20 upravený. 
+2020-05-13 12:42:34 | SK 23 : Protokol 302/V/20 skopírovaný. 
+2020-05-13 12:43:12 | SK 23 : Protokol 304/V/20 upravený. 
+2020-05-13 12:43:24 | SK 23 : Protokol 304/V/20 upravený. 
+2020-05-13 13:07:09 | SK 23 : Protokol 302/V/20 skopírovaný. 
+2020-05-13 13:11:42 | SK 23 : Protokol 304/V/20 upravený. 
+2020-05-13 13:12:28 | SK 23 : Protokol 305/V/20 upravený. 
+2020-05-13 13:12:44 | SK 23 : Protokol 305/V/20 upravený. 
+2020-05-13 14:03:35 | SK 23 : Protokol 305/V/20 upravený. 
+2020-05-14 06:51:43 | SK 23 : Protokol 305/V/20 upravený. 
+2020-05-14 09:23:47 | SK 23 : Protokol 305/V/20 skopírovaný. 
+2020-05-14 09:25:30 | SK 23 : Protokol 306/V/20 upravený. 
+2020-05-14 09:25:39 | SK 23 : Protokol 306/V/20 upravený. 
+2020-05-14 09:26:03 | SK 23 : Protokol 306/V/20 skopírovaný. 
+2020-05-14 09:30:14 | SK 23 : Protokol 303/V/20 skopírovaný. 
+2020-05-14 09:31:41 | SK 23 : Protokol 308/V/20 skopírovaný. 
+2020-05-14 09:32:43 | SK 23 : Protokol 306/V/20 skopírovaný. 
+2020-05-14 09:33:25 | SK 23 : Protokol 310/V/20 skopírovaný. 
+2020-05-14 09:39:29 | SK 23 : Protokol 311/V/20 upravený. 
+2020-05-14 09:42:10 | SK 23 : Protokol 311/V/20 skopírovaný. 
+2020-05-14 09:46:30 | SK 23 : Protokol 312/V/20 skopírovaný. 
+2020-05-14 09:48:26 | SK 23 : Protokol 312/V/20 skopírovaný. 
+2020-05-14 09:50:56 | SK 23 : Protokol 297/V/20 skopírovaný. 
+2020-05-14 09:53:37 | SK 23 : Protokol 315/V/20 skopírovaný. 
+2020-05-14 09:56:30 | SK 23 : Protokol 316/V/20 skopírovaný. 
+2020-05-14 10:27:31 | SK 23 : Protokol 317/V/20 skopírovaný. 
+2020-05-14 10:27:43 | SK 23 : Protokol 315/V/20 skopírovaný. 
+2020-05-14 10:30:52 | SK 23 : Protokol 318/V/20 skopírovaný. 
+2020-05-14 10:31:09 | SK 23 : Protokol 320/V/20 skopírovaný. 
+2020-05-14 10:34:52 | SK 23 : Protokol 321/V/20 skopírovaný. 
+2020-05-14 10:35:33 | SK 23 : Protokol 322/V/20 upravený. 
+2020-05-14 10:35:43 | SK 23 : Protokol 322/V/20 upravený. 
+2020-05-14 17:04:08 | SK 23 : Protokol 322/V/20 exportovaný. 
+2020-05-14 17:12:16 | SK 23 : Protokol 322/V/20 exportovaný. 
+2020-05-14 17:13:41 | SK 23 : Protokol 322/V/20 exportovaný. 
+2020-05-14 17:19:44 | SK 23 : Protokol 322/V/20 exportovaný. 
+2020-05-14 17:20:39 | SK 23 : Protokol 302/V/20 exportovaný. 
+2020-05-14 17:28:29 | SK 23 : Protokol 302/V/20 exportovaný. 
+2020-05-14 17:29:12 | SK 23 : Protokol 302/V/20 exportovaný. 
+2020-05-14 17:29:56 | SK 23 : Protokol 302/V/20 exportovaný. 
+2020-05-14 17:30:35 | SK 23 : Protokol 302/V/20 exportovaný. 
+2020-05-14 17:30:54 | SK 23 : Protokol 302/V/20 exportovaný. 
+2020-05-14 17:32:11 | SK 23 : Protokol 302/V/20 exportovaný. 
+2020-05-14 17:32:52 | SK 23 : Protokol 302/V/20 exportovaný. 
+2020-05-14 21:31:43 | SK 23 : Protokol 302/V/20 exportovaný. 
+2020-05-14 21:33:06 | SK 23 : Protokol 302/V/20 exportovaný. 
+2020-05-14 21:33:34 | SK 23 : Protokol 302/V/20 exportovaný. 
+2020-05-14 21:42:28 | SK 23 : Protokol 303/V/20 exportovaný. 
+2020-05-14 22:04:32 | SK 23 : Protokol 204/V/16 exportovaný. 
+2020-05-14 22:30:30 | SK 23 : Protokol 204/V/16 exportovaný. 
+2020-05-14 22:43:49 | SK 23 : Protokol 204/V/16 exportovaný. 
+2020-05-14 22:48:04 | SK 23 : Protokol 204/V/16 exportovaný. 
+2020-05-14 21:53:09 | SK 23 : Nový protokol: 323/V/20 
+2020-05-14 21:53:20 | SK 23 : Protokol 323/V/20 upravený. 
+2020-05-14 22:53:28 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 22:58:27 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:00:40 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:01:43 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:02:32 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:03:14 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:04:08 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:06:42 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:06:50 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:08:01 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:09:09 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:09:41 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:10:13 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:11:44 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:12:30 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-05-14 23:15:45 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-05-14 23:18:07 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:19:01 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-05-14 23:19:23 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:21:12 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:26:21 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:28:38 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:29:11 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:29:38 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:29:56 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-14 23:33:41 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-15 05:43:28 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-15 05:44:04 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-05-15 05:48:20 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-05-15 05:50:27 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-05-15 05:50:51 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-05-15 06:00:00 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-05-15 06:00:52 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-15 06:04:57 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-15 06:05:56 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-15 06:13:03 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-15 06:13:26 | SK 23 : Protokol 323/V/20 exportovaný. 
+2020-05-15 06:16:54 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-05-15 06:20:18 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-05-15 06:20:33 | SK 23 : Protokol 204/V/16 exportovaný. 
+2020-05-15 07:43:56 | SK 23 : Klon Id.109 -> Id.120 
+2020-05-15 10:45:40 | SK 23 : Parameter:  "uyg" pridaný k "suč. Id.1". 
+2020-05-15 10:46:00 | SK 23 : Parameter:  "uyg" odstránený zo "suč. Id.1". 
+2020-05-15 10:48:01 | SK 23 : Parameter:  "hfdg" pridaný k "suč. Id.1". 
+2020-05-15 10:48:21 | SK 23 : Parameter:  "hfdg" odstránený zo "suč. Id.1". 
+2020-05-15 12:52:16 | SK 23 : Parameter:  "30" pridaný k "suč. Id.120". 
+2020-05-15 12:52:28 | SK 23 : Parameter:  "30" odstránený zo "suč. Id.120". 
+2020-05-15 13:14:45 | SK 23 : Odhlásenie. 
+2020-05-15 13:14:55 | SK 23 : Prihlásenie. 
+2020-05-15 13:18:08 | SK 23 : Nový protokol: 324/V/20 
+2020-05-15 13:20:46 | SK 23 : Nový protokol: 325/V/20 
+2020-05-15 13:22:15 | SK 23 : Protokol 325/V/20 upravený. 
+2020-05-15 13:22:26 | SK 23 : Protokol 325/V/20 upravený. 
+2020-05-15 13:27:34 | SK 23 : Protokol 325/V/20 upravený. 
+2020-05-15 13:29:00 | SK 23 : Protokol 324/V/20 upravený. 
+2020-05-15 13:29:41 | SK 23 : Protokol 324/V/20 upravený. 
+2020-05-15 13:50:36 | SK 23 : Nový protokol: 326/V/20 
+2020-05-15 13:53:23 | SK 23 : Nový protokol: 327/V/20 
+2020-05-15 13:53:35 | SK 23 : Protokol 327/V/20 upravený. 
+2020-05-15 13:56:03 | SK 23 : Nový protokol: 328/V/20 
+2020-05-15 13:57:40 | SK 23 : Nový protokol: 329/V/20 
+2020-05-15 13:59:01 | SK 23 : Nový protokol: 330/V/20 
+2020-05-15 13:59:36 | SK 23 : Protokol 330/V/20 upravený. 
+2020-05-15 14:02:11 | SK 23 : Protokol 328/V/20 upravený. 
+2020-05-15 15:03:34 | SK 23 : Protokol 330/V/20 exportovaný. 
+2020-05-15 14:10:20 | SK 23 : Nový protokol: 331/V/20 
+2020-05-15 14:15:25 | SK 23 : Protokol 331/V/20 upravený. 
+2020-05-15 14:15:35 | SK 23 : Protokol 331/V/20 upravený. 
+2020-05-15 14:15:43 | SK 23 : Protokol 329/V/20 upravený. 
+2020-05-15 14:16:01 | SK 23 : Protokol 331/V/20 skopírovaný. 
+2020-05-15 14:26:03 | SK 23 : Užívateľ "kettem" vytvorený. 
+2020-05-15 14:26:08 | SK 23 : Užívateľ "kettem" odstránený. 
+2020-05-15 14:26:57 | SK 23 : Klon Id.120 -> Id.121 
+2020-05-15 14:27:54 | SK 23 : Parameter:  "23" pridaný k "suč. Id.121". 
+2020-05-15 14:28:04 | SK 23 : Parameter:  "23" odstránený zo "suč. Id.121". 
+2020-05-15 14:29:40 | SK 23 : Protokol 332/V/20 upravený. 
+2020-05-15 14:29:59 | SK 23 : Protokol 332/V/20 upravený. 
+2020-05-16 05:28:46 | SK 23 : Nový protokol: 333/V/20 
+2020-05-16 05:36:16 | SK 23 : Protokol 332/V/20 upravený. 
+2020-05-16 07:49:13 | SK 23 : Nový protokol: 334/V/20 
+2020-05-16 10:00:32 | SK 23 : Nový protokol: 335/V/20 
+2020-05-16 11:18:37 | SK 23 : Odhlásenie. 
+2020-05-16 11:19:21 | SK 23 : Prihlásenie. 
+2020-05-16 12:19:35 | SK 23 : Protokol 335/V/20 exportovaný. 
+2020-05-16 11:20:23 | SK 23 : Odhlásenie. 
+2020-05-16 12:03:45 | SK 23 : Prihlásenie. 
+2020-05-17 06:10:40 | SK 23 : Protokol 335/V/20 upravený. 
+2020-05-17 10:25:43 | SK 23 : Prihlásenie. 
+2020-05-17 10:28:56 | SK 23 : Prihlásenie. 
+2020-05-17 14:44:59 | SK 23 : Prihlásenie. 
+2020-05-17 15:22:34 | SK 23 : Prihlásenie. 
+2020-05-17 15:31:14 | SK 23 : Odhlásenie. 
+2020-05-17 15:33:40 | SK 23 : Prihlásenie. 
+2020-05-17 15:37:00 | SK 23 : Nový protokol: 336/V/20 
+2020-05-17 15:37:28 | SK 23 : Protokol 335/V/20 upravený. 
+2020-05-17 15:37:39 | SK 23 : Protokol 336/V/20 upravený. 
+2020-05-17 19:29:59 | SK 23 : Prihlásenie. 
+2020-05-17 20:51:46 | SK 23 : Nový protokol: 337/V/20 
+2020-05-17 20:56:08 | SK 23 : Nový protokol: 338/V/20 
+2020-05-17 21:01:56 | SK 23 : Nový protokol: 339/V/20 
+2020-05-17 21:24:36 | SK 23 : Nový protokol: 340/V/20 
+2020-05-17 21:41:13 | SK 23 : Nový protokol: 341/V/20 
+2020-05-17 21:49:54 | SK 23 : Nový protokol: 342/V/20 
+2020-05-17 21:54:13 | SK 23 : Nový protokol: 343/V/20 
+2020-05-17 21:57:24 | SK 23 : Nový protokol: 344/V/20 
+2020-05-17 22:29:15 | SK 23 : Nový protokol: 345/V/20 
+2020-06-22 11:06:33 | SK 23 : Odhlásenie. 
+2020-06-22 11:06:41 | SK 23 : Prihlásenie. 
+2020-06-22 11:06:47 | SK 23 : Odhlásenie. 
+2020-09-28 10:31:17 | SK 23 : Prihlásenie. 
+2020-09-28 10:33:37 | SK 23 : Odhlásenie. 
+2020-09-28 10:35:07 | SK 23 : Prihlásenie. 
+2020-09-28 10:35:26 | SK 23 : Odhlásenie. 
+2020-09-28 14:04:17 | SK 23 : Prihlásenie. 
+2020-09-28 21:56:34 | SK 23 : Odhlásenie. 
+2020-09-30 05:42:11 | SK 23 : Prihlásenie. 
+2020-09-30 05:42:44 | SK 23 : Odhlásenie. 
+2020-12-26 17:14:10 | SK 23 : Prihlásenie. 
+2020-12-26 17:15:12 | SK 23 : Protokol 345/V/20 upravený. 
+2020-12-27 21:09:24 | SK 23 : Parameter:  "1x45" pridaný k "suč. Id.121". 
+2020-12-27 21:10:33 | SK 23 : Parameter:  "L = 10h8" pridaný k "suč. Id.121". 
+2020-12-27 21:10:48 | SK 23 : Parameter:  "1x45" odstránený zo "suč. Id.121". 
+2020-12-27 21:22:08 | SK 23 : Protokol 345/V/20 exportovaný. 
+2020-12-28 19:53:43 | SK 23 : Protokol 345/V/20 exportovaný. 
+2020-12-28 20:13:39 | SK 23 : Protokol 345/V/20 exportovaný. 
+2020-12-28 20:14:22 | SK 23 : Protokol 1/V/15 exportovaný. 
+2020-12-28 20:15:49 | SK 23 : Protokol 6/V/15 exportovaný. 
+2020-12-28 20:18:08 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-28 20:26:17 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-28 20:27:14 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-28 20:34:14 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-28 20:34:32 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-28 20:35:45 | SK 23 : Protokol 204/V/16 exportovaný. 
+2020-12-28 21:35:24 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-28 21:59:30 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-28 22:12:02 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-28 22:16:06 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-28 22:32:31 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-28 22:34:44 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-28 23:26:45 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:03:11 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:04:10 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:05:04 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:27:52 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:30:35 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:33:21 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:34:55 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:36:10 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:37:18 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:42:53 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:44:09 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:45:38 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:50:42 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:54:11 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:55:44 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 00:57:25 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 01:03:26 | SK 23 : Protokol 204/V/16 exportovaný. 
+2020-12-29 07:57:25 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 08:02:37 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 08:12:42 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 08:13:55 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 08:16:33 | SK 23 : Protokol 190/V/16 exportovaný. 
+2020-12-29 08:17:44 | SK 23 : Protokol 345/V/20 exportovaný. 
+2020-12-29 08:22:12 | SK 23 : Protokol 190/V/16 skopírovaný. 
+2020-12-29 08:26:16 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 08:31:36 | SK 23 : Protokol 346/V/20 upravený. 
+2020-12-29 08:31:42 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 08:32:23 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 08:35:22 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 08:36:31 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 08:37:49 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 08:38:45 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 09:44:04 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:00:37 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:01:54 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:04:47 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:06:07 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:12:25 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:13:36 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:15:17 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:16:57 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:27:06 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:28:34 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:30:37 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:32:07 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:37:32 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:40:02 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:40:59 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:42:07 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:43:31 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:44:55 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:47:35 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:48:30 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:49:27 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:53:07 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:54:57 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 10:56:52 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:01:02 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:10:43 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:21:54 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:22:47 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:23:54 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:26:54 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:27:36 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:33:48 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:35:43 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:38:27 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:42:08 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:43:56 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:46:20 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 11:48:51 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 12:11:27 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 12:16:41 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 12:24:41 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 16:07:17 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 20:47:48 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 20:48:33 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 20:51:32 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 20:54:56 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 21:05:35 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 21:20:30 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 21:21:44 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 21:22:41 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 21:24:37 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 21:25:24 | SK 23 : Protokol 204/V/16 exportovaný. 
+2020-12-29 21:39:51 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 21:43:18 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-29 21:43:31 | SK 23 : Protokol 204/V/16 exportovaný. 
+2020-12-30 12:50:00 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 12:56:58 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 12:58:15 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 12:59:15 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 13:00:08 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 13:05:26 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 13:07:19 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 13:10:22 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 13:14:21 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 13:15:04 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 13:15:56 | SK 23 : Protokol 197/V/16 exportovaný. 
+2020-12-30 13:18:37 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 13:20:40 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 13:22:05 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 13:56:53 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 21:51:34 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-30 21:53:32 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-31 05:15:23 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-31 05:33:53 | SK 23 : Protokol 324/V/20 exportovaný. 
+2020-12-31 05:36:00 | SK 23 : Protokol 346/V/20 exportovaný. 
+2020-12-31 05:47:38 | SK 23 : Protokol 345/V/20 exportovaný. 
+2020-12-31 05:59:01 | SK 23 : Protokol 345/V/20 exportovaný. 
+2020-12-31 06:00:08 | SK 23 : Protokol 336/V/20 exportovaný. 
+2020-12-31 06:03:02 | SK 23 : Protokol 324/V/20 exportovaný. 
+2020-12-31 06:07:26 | SK 23 : Protokol 324/V/20 exportovaný. 
+2020-12-31 06:10:51 | SK 23 : Protokol 324/V/20 exportovaný. 
+2020-12-31 06:11:22 | SK 23 : Protokol 292/V/20 exportovaný. 
+2020-12-31 06:12:08 | SK 23 : Protokol 269/V/16 exportovaný. 
+2021-01-01 17:46:48 | SK 23 : Parameter:  "78" pridaný k "suč. Id.121". 
+2021-01-01 17:49:23 | SK 23 : Parameter:  "77" pridaný k "suč. Id.121". 
+2021-01-01 22:54:17 | SK 23 : Parameter:  "6546" pridaný k "suč. Id.121". 
+2021-01-01 23:30:40 | SK 23 : Parameter:  "6546" odstránený zo "suč. Id.121". 
+2021-01-02 09:54:21 | SK 23 : Parameter:  "78" odstránený zo "suč. Id.121". 
+2021-01-02 11:14:13 | SK 23 : Parameter:  "654" pridaný k "suč. Id.121". 
+2021-01-02 11:17:04 | SK 23 : Parameter:  "77" odstránený zo "suč. Id.121". 
+2021-01-02 11:19:57 | SK 23 : Parameter:  "77" pridaný k "suč. Id.121". 
+2021-01-02 11:57:03 | SK 23 : Parameter:  "9" pridaný k "suč. Id.121". 
+2021-01-02 12:03:45 | SK 23 : Parameter:  "77" pridaný k "suč. Id.121". 
+2021-01-02 12:04:02 | SK 23 : Parameter:  "77" odstránený zo "suč. Id.121". 
+2021-01-02 16:13:01 | SK 23 : Parameter:  "34" pridaný k "suč. Id.121". 
+2021-01-02 16:14:44 | SK 23 : Parameter:  "5" pridaný k "suč. Id.121". 
+2021-01-02 16:18:21 | SK 23 : Parameter:  "5" odstránený zo "suč. Id.121". 
+2021-01-02 16:18:29 | SK 23 : Parameter:  "67" pridaný k "suč. Id.121". 
+2021-01-02 16:18:37 | SK 23 : Parameter:  "67" odstránený zo "suč. Id.121". 
+2021-01-02 16:41:34 | SK 23 : Parameter:  "4" pridaný k "suč. Id.121". 
+2021-01-02 16:42:09 | SK 23 : Parameter:  "4" odstránený zo "suč. Id.121". 
+2021-01-02 16:43:00 | SK 23 : Parameter:  "55" pridaný k "suč. Id.121". 
+2021-01-02 16:44:33 | SK 23 : Parameter:  "435" pridaný k "suč. Id.121". 
+2021-01-02 16:46:48 | SK 23 : Nový protokol: 347/V/21 
+2021-01-02 16:47:00 | SK 23 : Protokol 347/V/21 exportovaný. 
+2021-01-02 16:48:25 | SK 23 : Parameter:  "55,1" odstránený zo "suč. Id.121". 
+2021-01-02 16:48:58 | SK 23 : Parameter:  "55,1" pridaný k "suč. Id.121". 
+2021-01-02 16:49:22 | SK 23 : Protokol 347/V/21 exportovaný. 
+2021-01-02 19:54:48 | SK 23 : Parameter:  "M10" pridaný k "suč. Id.121". 
+2021-01-02 19:56:45 | SK 23 : Parameter:  "85" pridaný k "suč. Id.121". 
+2021-01-02 19:56:56 | SK 23 : Parameter:  "85" odstránený zo "suč. Id.121". 
+2021-01-02 19:58:00 | SK 23 : Protokol 347/V/21 exportovaný. 
+2021-01-02 20:06:43 | SK 23 : Protokol 346/V/20 upravený. 
+2021-01-02 20:39:06 |  : Parameter:  "1" pridaný k "suč. Id.". 
+2021-01-02 20:39:28 |  : Parameter:  "1" odstránený zo "suč. Id.". 
+2021-01-02 21:03:33 |  : Parameter:  "666" pridaný k "suč. Id.". 
+2021-01-02 21:05:38 |  : Parameter:  "666" odstránený zo "suč. Id.". 
+2021-01-02 21:36:56 |  : Parameter:  "34" pridaný k "suč. Id.". 
+2021-01-02 21:37:23 |  : Parameter:  "34" odstránený zo "suč. Id.". 
+2021-01-05 06:42:28 |  : Parameter:  "343434" pridaný k "suč. Id.". 
+2021-01-05 06:42:43 |  : Parameter:  "343434" odstránený zo "suč. Id.". 
+2021-01-05 07:51:39 |  : Parameter:  "234" pridaný k "suč. Id.". 
+2021-01-05 07:51:54 |  : Parameter:  "234" odstránený zo "suč. Id.". 
+2021-01-05 19:52:50 | SK 23 : Odhlásenie. 
+2021-01-05 19:53:23 | SK 23 : Prihlásenie.
+2021-01-07 05:51:39 | SK 23 : Prihlásenie. 
+2021-01-07 06:23:12 | SK 23 : Prihlásenie. 
+2021-01-16 11:10:59 | SK 23 : Prihlásenie. 
+2021-01-21 15:17:19 | SK 23 : Prihlásenie. 
+2021-02-02 05:24:15 | SK 23 : Odhlásenie. 
+2021-02-02 05:29:20 | SK 23 : Prihlásenie. 
+2021-02-02 05:35:03 | SK 23 : Odhlásenie. 
+2021-02-02 05:35:13 | SK 23 : Prihlásenie. 
+2021-02-03 20:31:47 | SK 23 : Nový protokol: 348/V/21 
+2021-02-03 20:47:52 | SK 23 : Nový protokol: 348/V/21 
+2021-02-03 20:56:56 | SK 23 : Nový protokol: 348/V/21 
+2021-02-03 21:01:00 | SK 23 : Nový protokol: 348/V/21 
+2021-02-03 21:48:42 | SK 23 : Nový protokol: 349/V/21 
+2021-02-04 20:47:18 | SK 23 : Protokol 324/V/20 exportovaný. 
+2021-02-04 20:48:58 | SK 23 : Protokol 324/V/20 exportovaný. 
+2021-02-04 20:51:09 | SK 23 : Protokol 190/V/16 exportovaný. 
+2021-02-04 20:52:10 | SK 23 : Protokol 204/V/16 exportovaný. 
+2021-02-04 21:42:51 | SK 23 : Protokol 323/V/20 exportovaný. 
+2021-02-05 00:16:35 | SK 23 : Protokol 349/V/21 exportovaný. 
+2021-02-05 00:20:11 | SK 23 : Protokol 190/V/16 exportovaný. 
+2021-02-05 10:36:59 | SK 23 : Nový protokol: 350/Volgogradská/21 
+2021-02-05 10:41:16 | SK 23 : Nový protokol: 351/Volgogradská/21 
+2021-02-05 11:05:44 | SK 23 : Nový protokol: 352/Volgogradská/21 
+2021-02-05 11:24:21 | SK 23 : Protokol 352/V/21 exportovaný. 
+2021-02-05 11:24:34 | SK 23 : Protokol 346/V/21 exportovaný. 
+2021-02-06 08:18:17 | SK 23 : Užívateľ "youngus" editovaný. 
+2021-02-06 08:19:10 | SK 23 : Užívateľ "youngus" editovaný. 
+2021-02-06 08:19:37 | SK 23 : Užívateľ "youngus" editovaný. 
+2021-02-06 08:31:52 | SK 23 : Užívateľ "piega" vytvorený. 
+2021-02-06 08:32:17 | SK 23 : Užívateľ "piega" editovaný. 
+2021-02-06 08:32:34 | SK 23 : Užívateľ "piega" editovaný. 
+2021-02-06 08:33:28 | SK 23 : Užívateľ "piega" editovaný. 
+2021-02-06 08:41:02 | SK 23 : Užívateľ "piega" editovaný. 
+2021-02-06 08:44:23 | SK 23 : Užívateľ "piega" editovaný. 
+2021-02-06 10:24:15 | SK 23 : Užívateľ "piega" editovaný. 
+2021-02-06 10:36:03 | SK 23 : Užívateľ "piega" odstránený. 
+2021-02-06 10:36:31 | SK 23 : Užívateľ "youngus" editovaný. 
+2021-02-06 10:36:52 | SK 23 : Užívateľ "youngus" editovaný. 
+2021-02-06 20:19:55 | SK 23 : Užívateľ "smer" editovaný. 
+2021-02-06 20:20:09 | SK 23 : Odhlásenie. 
+2021-02-06 20:24:05 | RF 12 : Prihlásenie. 
+2021-02-06 20:24:44 | RF 12 : Užívateľ "smer" editovaný. 
+2021-02-06 20:24:50 | RF 12 : Odhlásenie. 
+2021-02-06 20:25:02 | RF 12 : Prihlásenie. 
+2021-02-06 20:25:11 | RF 12 : Odhlásenie. 
+2021-02-06 20:25:20 | SK 23 : Prihlásenie. 
+2021-02-06 20:39:21 | SK 23 : Odhlásenie. 
+2021-02-06 20:39:32 | SK 23 : Prihlásenie. 
+2021-02-07 10:39:25 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-07 10:39:42 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-07 11:34:48 | SK 23 : Klon Id.112 -> Id.122 
+2021-02-07 11:35:54 | SK 23 : Klon Id.111 -> Id.123 
+2021-02-07 11:36:40 | SK 23 : Klon Id.119 -> Id.124 
+2021-02-07 15:47:53 |  : Parameter:  "100" pridaný k "suč. Id.". 
+2021-02-07 15:51:06 |  : Parameter:  "100" odstránený zo "suč. Id.". 
+2021-02-07 17:45:48 | SK 23 : Súčiastka:  "Hlavn&aacute; pr&iacute;ložka Id.124" odstránená. 
+2021-02-07 18:09:53 |  : Parameter:  "54765" pridaný k "suč. Id.". 
+2021-02-07 18:10:04 |  : Parameter:  "54765" odstránený zo "suč. Id.". 
+2021-02-07 18:23:42 | SK 23 : Protokol 346/V/21 exportovaný. 
+2021-02-07 20:19:50 | SK 23 : Protokol 346/V/21 exportovaný. 
+2021-02-07 20:28:07 | SK 23 : Protokol 204/V/16 exportovaný. 
+2021-02-07 22:17:59 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 22:18:45 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 22:20:40 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 22:21:45 | SK 23 : Protokol 351/V/21 upravený. 
+2021-02-07 22:36:53 | SK 23 : Protokol 350/V/21 upravený. 
+2021-02-07 22:37:21 | SK 23 : Protokol 349/V/21 upravený. 
+2021-02-07 22:48:43 | SK 23 : Protokol 349/V/21 upravený. 
+2021-02-07 22:48:59 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 22:49:16 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 22:49:28 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 22:53:53 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 22:54:04 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 22:54:51 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 22:55:01 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 22:58:29 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 22:58:37 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 23:23:05 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 23:33:59 | SK 23 : Protokol 353/V/21 upravený. 
+2021-02-07 23:39:11 | SK 23 : Protokol 354/V/21 upravený. 
+2021-02-07 23:41:40 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 23:42:09 | SK 23 : Protokol 352/V/21 upravený. 
+2021-02-07 23:43:42 | SK 23 : Odhlásenie. 
+2021-02-07 23:48:15 | SK 23 : Prihlásenie. 
+2021-02-07 23:53:07 | SK 23 : Odhlásenie. 
+2021-02-07 23:53:48 | SK 23 : Prihlásenie. 
+2021-02-07 23:56:00 | SK 23 : Odhlásenie. 
+2021-02-07 23:56:15 | SK 23 : Prihlásenie. 
+2021-02-07 23:56:59 | SK 23 : Odhlásenie. 
+2021-02-07 23:57:09 | SK 23 : Prihlásenie. 
+2021-02-07 23:57:35 | SK 23 : Odhlásenie. 
+2021-02-08 07:00:08 | SK 23 : Prihlásenie. 
+2021-02-08 07:00:38 | SK 23 : Odhlásenie. 
+2021-02-08 07:00:52 | FD 44 : Prihlásenie. 
+2021-02-08 07:06:46 | FD 44 : Odhlásenie. 
+2021-02-08 07:06:55 | SK 23 : Prihlásenie. 
+2021-02-08 07:15:02 | SK 23 : Odhlásenie. 
+2021-02-08 09:32:09 | SK 23 : Prihlásenie. 
+2021-02-08 09:33:24 | SK 23 : Odhlásenie. 
+2021-02-08 09:33:32 | SK 23 : Prihlásenie. 
+2021-02-08 09:50:49 | SK 23 : Odhlásenie. 
+2021-02-08 09:51:01 | SK 23 : Prihlásenie. 
+2021-02-08 09:52:00 | SK 23 : Odhlásenie. 
+2021-02-08 09:59:41 | SK 23 : Prihlásenie. 
+2021-02-08 10:08:39 | SK 23 : Odhlásenie. 
+2021-02-08 21:52:51 | SK 23 : Prihlásenie. 
+2021-02-08 22:14:47 | SK 23 : Odhlásenie. 
+2021-02-08 22:26:14 | SK 23 : Prihlásenie. 
+2021-02-08 22:29:46 | SK 23 : Odhlásenie. 
+2021-02-08 22:30:40 | SK 23 : Prihlásenie. 
+2021-02-08 22:31:06 | SK 23 : Odhlásenie. 
+2021-02-08 22:31:21 |  : Odhlásenie. 
+2021-02-08 22:31:47 |  : Odhlásenie. 
+2021-02-08 22:32:12 |  : Odhlásenie. 
+2021-02-08 22:32:39 |  : Odhlásenie. 
+2021-02-08 22:33:21 |  : Odhlásenie. 
+2021-02-08 22:35:03 |  : Odhlásenie. 
+2021-02-08 22:35:35 |  : Odhlásenie. 
+2021-02-08 22:35:50 |  : Odhlásenie. 
+2021-02-08 22:36:28 |  : Odhlásenie. 
+2021-02-08 22:36:53 | SK 23 : Prihlásenie. 
+2021-02-08 22:37:26 | SK 23 : Odhlásenie. 
+2021-02-08 22:37:41 |  : Odhlásenie. 
+2021-02-08 22:38:11 |  : Odhlásenie. 
+2021-02-08 22:38:42 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:39:12 |  : Odhlásenie. 
+2021-02-08 22:40:06 |  : Odhlásenie. 
+2021-02-08 22:41:29 |  : Odhlásenie. 
+2021-02-08 22:41:35 |  : Odhlásenie. 
+2021-02-08 22:42:02 | SK 23 : Prihlásenie. 
+2021-02-08 22:42:10 | SK 23 : Odhlásenie. 
+2021-02-08 22:42:33 |  : Odhlásenie. 
+2021-02-08 22:42:43 | SK 23 : Prihlásenie. 
+2021-02-08 23:10:11 | SK 23 : Nový protokol: 355/Volgogradská/21 
+2021-02-09 23:46:58 | SK 23 : Prihlásenie. 
+2021-02-10 08:51:38 | SK 23 : Prihlásenie. 
+2021-02-10 09:22:37 | SK 23 : Odhlásenie. 
+2021-02-10 09:22:55 | SK 23 : Prihlásenie. 
+2021-02-10 15:28:22 | SK 23 : Odhlásenie. 
+2021-02-10 15:28:30 | SK 23 : Prihlásenie. 
+2021-02-13 14:33:46 | SK 23 : Protokol 351/V/21 exportovaný. 
+2021-02-13 14:34:20 | SK 23 : Protokol 351/V/21 exportovaný. 
+2021-02-13 14:37:01 | SK 23 : Protokol 351/V/21 exportovaný. 
+2021-02-13 14:37:17 | SK 23 : Protokol 353/V/21 exportovaný. 
+2021-02-13 14:38:10 | SK 23 : Protokol 353/V/21 exportovaný. 
+2021-02-13 14:38:40 | SK 23 : Protokol 353/V/21 exportovaný. 
+2021-02-13 14:40:33 | SK 23 : Protokol 353/V/21 exportovaný. 
+2021-02-13 14:42:22 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 14:44:17 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 14:45:25 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 14:46:01 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 14:46:35 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 14:53:59 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 14:55:59 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 14:56:28 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 14:58:33 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 14:58:37 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 14:58:44 | SK 23 : Protokol 352/V/21 exportovaný. 
+2021-02-13 15:00:10 | SK 23 : Protokol 352/V/21 exportovaný. 
+2021-02-13 15:01:28 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:02:38 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:05:12 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:10:11 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:13:16 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:13:48 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:14:01 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:15:03 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:16:16 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:16:26 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:16:41 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:18:25 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:18:37 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:22:11 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:25:36 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:25:46 | SK 23 : Protokol 354/V/21 exportovaný. 
+2021-02-13 15:38:07 | SK 23 : Protokol 332/V/20 exportovaný. 
+2021-02-13 15:43:15 | SK 23 : Protokol 352/V/21 exportovaný. 
+2021-02-13 20:11:09 | SK 23 : Protokol 355/V/21 exportovaný. 
+2021-02-14 10:35:34 | SK 23 : Odhlásenie. 
+2021-02-14 10:35:53 | MČ 25 : Prihlásenie. 
+2021-02-15 04:48:30 | MČ 25 : Odhlásenie. 
+2021-02-15 04:49:05 | SK 23 : Prihlásenie. 
+2021-02-15 07:12:00 | SK 23 : Protokol 354/V/21 upravený. 
+2021-02-15 07:12:51 | SK 23 : Odhlásenie. 
+2021-02-15 07:13:17 | MČ 25 : Prihlásenie. 
+2021-02-15 07:13:47 | MČ 25 : Protokol 355/V/23 upravený. 
+2021-02-15 07:14:34 | MČ 25 : Protokol 355/V/21 upravený. 
+2021-02-15 07:21:37 | MČ 25 : Protokol 355/V/21 upravený. 
+2021-02-15 07:21:59 | MČ 25 : Protokol 355/V/21 upravený. 
+2021-02-15 07:22:44 | MČ 25 : Protokol 355/V/21 upravený. 
+2021-02-15 07:36:04 | MČ 25 : Protokol 355/V/21 upravený. 
+2021-02-15 07:39:21 | MČ 25 : Protokol 355/V/21 upravený. 
+2021-02-15 08:28:36 | MČ 25 : Protokol 355/V/21 upravený. 
+2021-02-15 09:26:18 | MČ 25 : Protokol 355/V/21 upravený. 
+2021-02-15 09:27:04 | MČ 25 : Odhlásenie. 
+2021-02-15 09:32:58 | SK 23 : Prihlásenie. 
+2021-02-15 09:33:27 | SK 23 : Protokol 341/V/20 upravený. 
+2021-02-15 09:33:32 | SK 23 : Protokol 343/V/20 upravený. 
+2021-02-15 09:33:36 | SK 23 : Protokol 342/V/20 upravený. 
+2021-02-15 09:33:40 | SK 23 : Protokol 340/V/20 upravený. 
+2021-02-15 09:33:45 | SK 23 : Protokol 338/V/20 upravený. 
+2021-02-15 09:33:59 | SK 23 : Protokol 339/V/20 upravený. 
+2021-02-15 09:34:10 | SK 23 : Protokol 337/V/20 upravený. 
+2021-02-15 09:34:15 | SK 23 : Protokol 334/V/20 upravený. 
+2021-02-15 09:34:43 | SK 23 : Protokol 334/V/21 upravený. 
+2021-02-15 09:34:55 | SK 23 : Protokol 337/V/21 upravený. 
+2021-02-15 09:35:48 | SK 23 : Protokol 335/V/20 upravený. 
+2021-02-15 09:36:33 | SK 23 : Protokol 333/V/20 upravený. 
+2021-02-15 09:38:39 | SK 23 : Protokol 320/V/20 upravený. 
+2021-02-15 09:39:12 | SK 23 : Protokol 318/V/20 upravený. 
+2021-02-15 10:07:30 | SK 23 : Protokol 355/V/21 upravený. 
+2021-02-15 10:18:45 | SK 23 : Protokol 356/V/21 upravený. 
+2021-02-15 10:21:59 | SK 23 : Protokol 353/V/21 upravený. 
+2021-02-15 14:10:40 | SK 23 : Protokol 358/V/21 exportovaný. 
+2021-02-15 15:01:35 | SK 23 : Protokol 358/V/21 exportovaný. 
+2021-02-15 15:08:42 | SK 23 : Protokol 358/V/21 exportovaný. 
+2021-02-15 21:28:09 | SK 23 : Nový protokol: 359/Volgogradská/21 
+2021-02-15 22:27:18 | SK 23 : Odhlásenie. 
+2021-02-15 22:27:26 | SK 23 : Prihlásenie. 
+2021-02-15 23:52:46 | SK 23 : Protokol 356/V/21 upravený. 
+2021-02-15 23:53:31 | SK 23 : Protokol 356/V/21 upravený. 
+2021-02-16 09:31:38 | SK 23 : Súčiastka:  "Fiting Id." vytvorená. 
+2021-02-16 09:32:36 | SK 23 : Súčiastka:  "Fiting Id." vytvorená. 
+2021-02-16 09:35:40 | SK 23 : Súčiastka:  "Fiting Id." vytvorená. 
+2021-02-16 15:11:03 | SK 23 : Súčiastka:  "Fiting Id." vytvorená. 
+2021-02-16 16:13:21 | SK 23 : Klon Id.127 -> Id.128 
+2021-02-16 21:35:16 |  : Parameter:  "T5" pridaný k "suč. Id.". 
+2021-02-16 21:35:47 |  : Parameter:  "10" pridaný k "suč. Id.". 
+2021-02-16 21:36:05 |  : Parameter:  "10" odstránený zo "suč. Id.". 
+2021-02-16 21:55:01 | SK 23 : Súčiastka:  "Fiting Id.127" odstránená. 
+2021-02-16 21:55:54 | SK 23 : Súčiastka:  "Fiting Id.128" odstránená. 
+2021-02-16 21:57:41 | SK 23 : Súčiastka:  "Fiting Id." vytvorená. 
+2021-02-16 22:14:48 | SK 23 : Súčiastka:  "Fiting Id.129" odstránená. 
+2021-02-16 22:16:04 | SK 23 : Súčiastka:  "Fiting Id." vytvorená. 
+2021-02-16 22:16:18 | SK 23 : Súčiastka:  "Fiting Id.130" odstránená. 
+2021-02-16 22:34:14 | SK 23 : Klon Id.126 -> Id.127 
+2021-02-16 22:35:24 | SK 23 : Súčiastka:  "Fiting Id.126" odstránená. 
+2021-02-16 22:36:15 | SK 23 : Súčiastka:  "Fiting Id.131" odstránená. 
+2021-02-17 05:53:29 | SK 23 : Klon Id.1 -> Id.120 
+2021-02-17 05:55:40 | SK 23 : Klon Id.1 -> Id.121 
+2021-02-17 08:57:29 | SK 23 : Klon Id.1 -> Id.122 
+2021-02-17 09:33:50 | SK 23 : Klon Id.1 -> Id.123 
+2021-02-17 09:34:58 | SK 23 : Klon Id.1 -> Id.124 
+2021-02-17 09:37:04 |  : Parameter:  "G5" pridaný k "suč. Id.". 
+2021-02-17 09:38:17 |  : Parameter:  "e" pridaný k "suč. Id.". 
+2021-02-17 09:39:53 | SK 23 : Klon Id.1 -> Id.125 
+2021-02-17 09:40:55 | SK 23 : Klon Id.1 -> Id.126 
+2021-02-17 09:41:17 |  : Parameter:  "w" pridaný k "suč. Id.". 
+2021-02-17 09:56:46 |  : Parameter:  "5cm" pridaný k "suč. Id.". 
+2021-02-17 09:57:13 | SK 23 : Klon Id.126 -> Id.127 
+2021-02-17 10:00:24 | SK 23 : Klon Id.1 -> Id.128 
+2021-02-17 10:00:45 | SK 23 : Klon Id.128 -> Id.129 
+2021-02-17 10:13:30 | SK 23 : Klon Id.129 -> Id.130 
+2021-02-17 14:24:10 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 14:25:41 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 14:30:20 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 14:32:44 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 14:41:30 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 14:45:51 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 14:49:41 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 14:54:19 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 14:59:28 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 15:19:40 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 15:21:31 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 15:22:33 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 15:23:21 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 15:23:40 | SK 23 : Užívateľ "kama" editovaný. 
+2021-02-17 15:23:55 | SK 23 : Užívateľ "kama" editovaný. 
+2021-02-17 15:27:30 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 15:27:40 | SK 23 : Odhlásenie. 
+2021-02-17 15:27:50 | TB 66 : Prihlásenie. 
+2021-02-17 15:28:02 | TB 66 : Odhlásenie. 
+2021-02-17 15:28:11 | SK 23 : Prihlásenie. 
+2021-02-17 15:29:02 | SK 23 : Užívateľ "tibi" editovaný. 
+2021-02-17 15:35:08 | SK 23 : Užívateľ "kkkkk" vytvorený. 
+2021-02-17 15:36:18 | SK 23 : Užívateľ "kkkkk" editovaný. 
+2021-02-17 16:12:20 | SK 23 : Užívateľ "kkkkk" odstránený. 
+2021-02-17 22:59:41 | SK 23 : Odhlásenie. 
+2021-02-17 22:59:54 | TB 66 : Prihlásenie. 
+2021-02-17 23:01:54 | TB 66 : Odhlásenie. 
+2021-02-17 23:02:02 | SK 23 : Prihlásenie. 
+2021-02-17 23:09:02 | SK 23 : Súčiastka:  "Veko v&yacute;st. pr&iacute;ruby Id.127" odstránená. 
+2021-02-18 00:32:54 | SK 23 : Súčiastka:  "Veko v&yacute;st. pr&iacute;ruby Id.126" odstránená. 
+2021-02-18 00:34:27 | SK 23 : Súčiastka:  "Veko v&yacute;st. pr&iacute;ruby Id.123" odstránená. 
+2021-02-18 01:01:19 | SK 23 : Súčiastka:  "Veko v&yacute;st. pr&iacute;ruby Id.122" odstránená. 
+2021-02-18 19:36:58 | SK 23 : Protokol 190/V/16 exportovaný. 
+2021-02-19 10:07:50 | SK 23 : Prihlásenie. 
+2021-02-19 12:08:28 | SK 23 : Odhlásenie. 
+2021-02-19 12:08:38 | SK 23 : Prihlásenie. 
+2021-02-19 12:08:48 | SK 23 : Odhlásenie. 
+2021-02-19 12:09:23 | SK 23 : Prihlásenie. 
+2021-02-19 12:10:00 | SK 23 : Odhlásenie. 
+2021-02-19 12:10:14 | SK 23 : Prihlásenie. 
+2021-02-19 15:36:43 | SK 23 : Nový odpočet: 1/21 
+2021-02-19 16:06:06 | SK 23 : Nový odpočet: 2/21 
+2021-02-19 21:50:30 | SK 23 : Nový odpočet: 3/21 
+2021-02-19 21:51:03 | SK 23 : Nový odpočet: 4/21 
+2021-02-21 11:04:15 | SK 23 : Nový odpočet: 1/21 
+2021-02-21 11:08:40 | SK 23 : Nový odpočet: 2/21 
+2021-02-21 11:09:29 | SK 23 : Nový odpočet: 3/21 
+2021-02-21 11:13:32 | SK 23 : Nový odpočet: 4/21 
+2021-02-21 11:14:02 | SK 23 : Nový odpočet: 5/21 
+2021-02-21 11:14:30 | SK 23 : Nový odpočet: 6/21 
+2021-02-21 11:14:49 | SK 23 : Nový odpočet: 7/21 
+2021-02-21 11:25:19 | SK 23 : Nový odpočet: 8/21 
+2021-02-21 11:25:44 | SK 23 : Nový odpočet: 9/21 
+2021-02-21 11:26:06 | SK 23 : Nový odpočet: 10/21 
+2021-02-21 11:26:54 | SK 23 : Nový odpočet: 11/21 
+2021-02-21 11:27:22 | SK 23 : Nový odpočet: 12/21 
+2021-02-21 11:27:46 | SK 23 : Nový odpočet: 13/21 
+2021-02-21 11:28:08 | SK 23 : Nový odpočet: 14/21 
+2021-02-21 11:28:26 | SK 23 : Nový odpočet: 15/21 
+2021-02-21 11:31:57 | SK 23 : Nový odpočet: 16/21 
+2021-02-21 11:32:14 | SK 23 : Nový odpočet: 17/21 
+2021-02-21 11:32:32 | SK 23 : Nový odpočet: 18/21 
+2021-02-21 11:32:55 | SK 23 : Nový odpočet: 19/21 
+2021-02-21 11:33:14 | SK 23 : Nový odpočet: 20/21 
+2021-02-21 11:33:34 | SK 23 : Nový odpočet: 21/21 
+2021-02-21 11:33:52 | SK 23 : Nový odpočet: 22/21 
+2021-02-21 11:34:12 | SK 23 : Nový odpočet: 23/21 
+2021-02-21 11:34:29 | SK 23 : Nový odpočet: 24/21 
+2021-02-21 11:34:43 | SK 23 : Nový odpočet: 25/21 
+2021-02-21 11:34:58 | SK 23 : Nový odpočet: 26/21 
+2021-02-21 11:35:15 | SK 23 : Nový odpočet: 27/21 
+2021-02-21 11:35:33 | SK 23 : Nový odpočet: 28/21 
+2021-02-21 11:35:51 | SK 23 : Nový odpočet: 29/21 
+2021-02-21 11:36:10 | SK 23 : Nový odpočet: 30/21 
+2021-02-21 11:36:28 | SK 23 : Nový odpočet: 31/21 
+2021-02-21 11:36:47 | SK 23 : Nový odpočet: 32/21 
+2021-02-21 11:37:16 | SK 23 : Nový odpočet: 33/21 
+2021-02-21 11:37:34 | SK 23 : Nový odpočet: 34/21 
+2021-02-21 11:37:51 | SK 23 : Nový odpočet: 35/21 
+2021-02-21 11:38:09 | SK 23 : Nový odpočet: 36/21 
+2021-02-21 11:38:27 | SK 23 : Nový odpočet: 37/21 
+2021-02-21 11:38:49 | SK 23 : Nový odpočet: 38/21 
+2021-02-21 11:39:09 | SK 23 : Nový odpočet: 39/21 
+2021-02-21 11:39:26 | SK 23 : Nový odpočet: 40/21 
+2021-02-21 11:39:42 | SK 23 : Nový odpočet: 41/21 
+2021-02-21 19:36:59 | SK 23 : Nový odpočet: 1/21 
+2021-02-21 19:40:37 | SK 23 : Nový odpočet: 2/21 
+2021-02-21 19:40:58 | SK 23 : Nový odpočet: 3/21 
+2021-02-21 19:41:16 | SK 23 : Nový odpočet: 4/21 
+2021-02-21 19:41:34 | SK 23 : Nový odpočet: 5/21 
+2021-02-21 19:41:52 | SK 23 : Nový odpočet: 6/21 
+2021-02-21 19:42:22 | SK 23 : Nový odpočet: 7/21 
+2021-02-21 19:42:40 | SK 23 : Nový odpočet: 8/21 
+2021-02-21 19:42:58 | SK 23 : Nový odpočet: 9/21 
+2021-02-21 19:43:13 | SK 23 : Nový odpočet: 10/21 
+2021-02-21 19:43:38 | SK 23 : Nový odpočet: 11/21 
+2021-02-21 19:46:32 | SK 23 : Nový odpočet: 12/21 
+2021-02-21 19:46:50 | SK 23 : Nový odpočet: 13/21 
+2021-02-21 19:47:07 | SK 23 : Nový odpočet: 14/21 
+2021-02-21 19:47:30 | SK 23 : Nový odpočet: 15/21 
+2021-02-21 19:47:46 | SK 23 : Nový odpočet: 16/21 
+2021-02-21 19:48:06 | SK 23 : Nový odpočet: 17/21 
+2021-02-21 19:48:30 | SK 23 : Nový odpočet: 18/21 
+2021-02-21 19:48:47 | SK 23 : Nový odpočet: 19/21 
+2021-02-21 19:49:11 | SK 23 : Nový odpočet: 20/21 
+2021-02-21 19:49:31 | SK 23 : Nový odpočet: 21/21 
+2021-02-21 19:49:52 | SK 23 : Nový odpočet: 22/21 
+2021-02-21 19:50:07 | SK 23 : Nový odpočet: 23/21 
+2021-02-21 19:50:24 | SK 23 : Nový odpočet: 24/21 
+2021-02-21 19:50:42 | SK 23 : Nový odpočet: 25/21 
+2021-02-21 19:50:58 | SK 23 : Nový odpočet: 26/21 
+2021-02-21 19:51:15 | SK 23 : Nový odpočet: 27/21 
+2021-02-21 19:51:57 | SK 23 : Nový odpočet: 28/21 
+2021-02-21 19:52:22 | SK 23 : Nový odpočet: 29/21 
+2021-02-21 21:19:56 | SK 23 : Nový odpočet: 30/21 
+2021-02-21 21:20:56 | SK 23 : Nový odpočet: 31/21 
+2021-02-21 21:21:36 | SK 23 : Nový odpočet: 32/21 
+2021-02-21 21:21:55 | SK 23 : Nový odpočet: 33/21 
+2021-02-21 21:22:13 | SK 23 : Nový odpočet: 34/21 
+2021-02-21 21:22:30 | SK 23 : Nový odpočet: 35/21 
+2021-02-21 21:23:49 | SK 23 : Nový odpočet: 36/21 
+2021-02-21 21:24:07 | SK 23 : Nový odpočet: 37/21 
+2021-02-21 21:24:25 | SK 23 : Nový odpočet: 38/21 
+2021-02-21 21:24:47 | SK 23 : Nový odpočet: 39/21 
+2021-02-21 21:25:20 | SK 23 : Nový odpočet: 40/21 
+2021-02-21 21:25:52 | SK 23 : Nový odpočet: 41/21 
+2021-02-21 21:29:27 | SK 23 : Nový odpočet: 42/21 
+2021-02-21 21:29:47 | SK 23 : Nový odpočet: 43/21 
+2021-02-21 21:30:05 | SK 23 : Nový odpočet: 44/21 
+2021-02-21 21:30:25 | SK 23 : Nový odpočet: 45/21 
+2021-02-21 21:30:40 | SK 23 : Nový odpočet: 46/21 
+2021-02-21 21:30:54 | SK 23 : Nový odpočet: 47/21 
+2021-02-21 21:31:11 | SK 23 : Nový odpočet: 48/21 
+2021-02-21 21:31:30 | SK 23 : Nový odpočet: 49/21 
+2021-02-21 21:31:52 | SK 23 : Nový odpočet: 50/21 
+2021-02-21 21:32:09 | SK 23 : Nový odpočet: 51/21 
+2021-02-21 21:32:27 | SK 23 : Nový odpočet: 52/21 
+2021-02-21 21:32:49 | SK 23 : Nový odpočet: 53/21 
+2021-02-21 21:33:10 | SK 23 : Nový odpočet: 54/21 
+2021-02-21 21:33:30 | SK 23 : Nový odpočet: 55/21 
+2021-02-21 21:33:47 | SK 23 : Nový odpočet: 56/21 
+2021-02-21 21:34:15 | SK 23 : Nový odpočet: 57/21 
+2021-02-21 21:34:32 | SK 23 : Nový odpočet: 58/21 
+2021-02-21 21:34:49 | SK 23 : Nový odpočet: 59/21 
+2021-02-21 21:35:05 | SK 23 : Nový odpočet: 60/21 
+2021-02-21 21:35:25 | SK 23 : Nový odpočet: 61/21 
+2021-02-21 21:35:48 | SK 23 : Nový odpočet: 62/21 
+2021-02-21 21:36:21 | SK 23 : Nový odpočet: 63/21 
+2021-02-21 21:36:41 | SK 23 : Nový odpočet: 64/21 
+2021-02-22 03:46:25 | SK 23 : Nový odpočet: 65/21 
+2021-02-22 03:47:06 | SK 23 : Nový odpočet: 66/21 
+2021-02-22 03:47:38 | SK 23 : Nový odpočet: 67/21 
+2021-02-22 03:48:04 | SK 23 : Nový odpočet: 68/21 
+2021-02-22 03:48:43 | SK 23 : Nový odpočet: 69/21 
+2021-02-22 03:49:04 | SK 23 : Nový odpočet: 70/21 
+2021-02-22 03:49:22 | SK 23 : Nový odpočet: 71/21 
+2021-02-22 03:49:43 | SK 23 : Nový odpočet: 72/21 
+2021-02-22 03:50:04 | SK 23 : Nový odpočet: 73/21 
+2021-02-22 03:50:24 | SK 23 : Nový odpočet: 74/21 
+2021-02-22 03:50:57 | SK 23 : Nový odpočet: 75/21 
+2021-02-22 03:51:17 | SK 23 : Nový odpočet: 76/21 
+2021-02-22 03:51:42 | SK 23 : Nový odpočet: 77/21 
+2021-02-22 04:02:34 | SK 23 : Nový odpočet: 78/21 
+2021-02-22 04:02:59 | SK 23 : Nový odpočet: 79/21 
+2021-02-22 04:06:38 | SK 23 : Nový odpočet: 80/21 
+2021-02-22 04:07:01 | SK 23 : Nový odpočet: 81/21 
+2021-02-22 04:07:20 | SK 23 : Nový odpočet: 82/21 
+2021-02-22 04:07:56 | SK 23 : Nový odpočet: 83/21 
+2021-02-22 04:08:36 | SK 23 : Nový odpočet: 84/21 
+2021-02-22 04:09:02 | SK 23 : Nový odpočet: 85/21 
+2021-02-22 04:09:21 | SK 23 : Nový odpočet: 86/21 
+2021-02-22 04:09:43 | SK 23 : Nový odpočet: 87/21 
+2021-02-22 04:10:04 | SK 23 : Nový odpočet: 88/21 
+2021-02-22 04:10:24 | SK 23 : Nový odpočet: 89/21 
+2021-02-22 04:10:46 | SK 23 : Nový odpočet: 90/21 
+2021-02-22 04:11:06 | SK 23 : Nový odpočet: 91/21 
+2021-02-22 04:11:42 | SK 23 : Nový odpočet: 92/21 
+2021-02-22 04:12:21 | SK 23 : Nový odpočet: 93/21 
+2021-02-22 04:12:44 | SK 23 : Nový odpočet: 94/21 
+2021-02-22 04:13:17 | SK 23 : Nový odpočet: 95/21 
+2021-02-22 04:13:38 | SK 23 : Nový odpočet: 96/21 
+2021-02-22 04:13:57 | SK 23 : Nový odpočet: 97/21 
+2021-02-22 04:14:23 | SK 23 : Nový odpočet: 98/21 
+2021-02-22 04:14:56 | SK 23 : Nový odpočet: 99/21 
+2021-02-22 04:15:18 | SK 23 : Nový odpočet: 100/21 
+2021-02-22 04:15:36 | SK 23 : Nový odpočet: 101/21 
+2021-02-22 04:16:01 | SK 23 : Nový odpočet: 102/21 
+2021-02-22 04:16:23 | SK 23 : Nový odpočet: 103/21 
+2021-02-22 04:16:43 | SK 23 : Nový odpočet: 104/21 
+2021-02-22 04:18:13 | SK 23 : Nový odpočet: 105/21 
+2021-02-22 04:32:19 | SK 23 : Nový odpočet: 106/21 
+2021-02-22 04:44:00 | SK 23 : Nový odpočet: 107/21 
+2021-02-22 04:44:41 | SK 23 : Nový odpočet: 108/21 
+2021-02-22 04:45:57 | SK 23 : Nový odpočet: 109/21 
+2021-02-22 04:46:18 | SK 23 : Nový odpočet: 110/21 
+2021-02-22 04:46:45 | SK 23 : Nový odpočet: 111/21 
+2021-02-22 04:47:05 | SK 23 : Nový odpočet: 112/21 
+2021-02-22 04:47:26 | SK 23 : Nový odpočet: 113/21 
+2021-02-22 04:47:48 | SK 23 : Nový odpočet: 114/21 
+2021-02-22 04:48:28 | SK 23 : Nový odpočet: 115/21 
+2021-02-22 04:48:48 | SK 23 : Nový odpočet: 116/21 
+2021-02-22 04:49:10 | SK 23 : Nový odpočet: 117/21 
+2021-02-22 04:49:33 | SK 23 : Nový odpočet: 118/21 
+2021-02-22 04:49:54 | SK 23 : Nový odpočet: 119/21 
+2021-02-22 04:53:02 | SK 23 : Nový odpočet: 120/21 
+2021-02-22 04:53:26 | SK 23 : Nový odpočet: 121/21 
+2021-02-22 04:53:46 | SK 23 : Nový odpočet: 122/21 
+2021-02-22 04:55:04 | SK 23 : Nový odpočet: 123/21 
+2021-02-22 04:55:24 | SK 23 : Nový odpočet: 124/21 
+2021-02-22 04:55:43 | SK 23 : Nový odpočet: 125/21 
+2021-02-22 04:55:59 | SK 23 : Nový odpočet: 126/21 
+2021-02-22 04:56:28 | SK 23 : Nový odpočet: 127/21 
+2021-02-22 04:57:04 | SK 23 : Nový odpočet: 128/21 
+2021-02-22 04:57:23 | SK 23 : Nový odpočet: 129/21 
+2021-02-22 04:57:56 | SK 23 : Nový odpočet: 130/21 
+2021-02-22 04:58:20 | SK 23 : Nový odpočet: 131/21 
+2021-02-22 04:58:50 | SK 23 : Nový odpočet: 132/21 
+2021-02-22 04:59:10 | SK 23 : Nový odpočet: 133/21 
+2021-02-22 04:59:28 | SK 23 : Nový odpočet: 134/21 
+2021-02-22 04:59:47 | SK 23 : Nový odpočet: 135/21 
+2021-02-22 05:00:11 | SK 23 : Nový odpočet: 136/21 
+2021-02-22 05:00:39 | SK 23 : Nový odpočet: 137/21 
+2021-02-22 05:01:01 | SK 23 : Nový odpočet: 138/21 
+2021-02-22 05:01:21 | SK 23 : Nový odpočet: 139/21 
+2021-02-22 05:08:19 | SK 23 : Nový odpočet: 140/21 
+2021-02-22 05:20:39 | SK 23 : Nový odpočet: 141/21 
+2021-02-22 05:32:16 | SK 23 : Nový odpočet: 142/21 
+2021-02-22 05:46:21 | SK 23 : Nový odpočet: 143/21 
+2021-02-22 05:47:18 | SK 23 : Nový odpočet: 144/21 
+2021-02-22 05:48:13 | SK 23 : Nový odpočet: 145/21 
+2021-02-22 05:49:02 | SK 23 : Nový odpočet: 146/21 
+2021-02-22 05:50:53 | SK 23 : Nový odpočet: 147/21 
+2021-02-22 05:51:43 | SK 23 : Nový odpočet: 148/21 
+2021-02-22 05:54:17 | SK 23 : Nový odpočet: 149/21 
+2021-02-22 05:55:11 | SK 23 : Nový odpočet: 150/21 
+2021-02-22 05:57:03 | SK 23 : Nový odpočet: 151/21 
+2021-02-22 05:58:29 | SK 23 : Nový odpočet: 152/21 
+2021-02-22 05:59:08 | SK 23 : Nový odpočet: 153/21 
+2021-02-22 05:59:57 | SK 23 : Nový odpočet: 154/21 
+2021-02-22 06:00:34 | SK 23 : Nový odpočet: 155/21 
+2021-02-22 06:01:39 | SK 23 : Nový odpočet: 156/21 
+2021-02-22 06:02:41 | SK 23 : Nový odpočet: 157/21 
+2021-02-22 06:03:23 | SK 23 : Nový odpočet: 158/21 
+2021-02-22 06:04:31 | SK 23 : Nový odpočet: 159/21 
+2021-02-22 23:12:17 | SK 23 : Nový protokol: /Volgogradská/21 
+2021-02-22 23:18:43 | SK 23 : Nový protokol: /Volgogradská/21 
+2021-02-22 23:23:30 | SK 23 : Nový protokol: /Volgogradská/21 
+2021-02-22 23:24:58 | SK 23 : Nový protokol: /Volgogradská/21 
+2021-03-02 08:12:03 | SK 23 : Nový odpočet: 160/21 
+2021-03-02 08:18:07 | SK 23 : Nový odpočet: 160/21 
+2021-03-02 15:29:02 |  : Nová cenník:  bol vytvorený. 
+2021-03-05 13:48:51 | SK 23 : Nový odpočet: 162/21 
+2021-03-05 13:56:47 | SK 23 : Nový odpočet: 161/21 
+2021-03-12 10:32:18 | SK 23 : Nový odpočet: 162/21 
+2021-03-12 13:21:00 | SK 23 : Prihlásenie. 
+2021-03-19 12:45:37 | SK 23 : Nový odpočet: 163/21 
+2021-03-20 14:57:20 | SK 23 : Prihlásenie. 
+2021-03-27 02:54:27 | SK 23 : Nový odpočet: 164/21 
+2021-03-27 05:33:25 | SK 23 : Prihlásenie. 
+2021-04-02 10:55:50 | SK 23 : Prihlásenie. 
+2021-04-02 10:57:01 | SK 23 : Nový odpočet: 165/21 
+2021-04-04 12:49:23 | SK 23 : Prihlásenie. 
+2021-04-07 05:30:25 | SK 23 : Prihlásenie. 
+2021-04-07 09:27:49 | SK 23 : Odhlásenie. 
+2021-04-07 09:28:07 | SK 23 : Prihlásenie. 
+2021-04-07 09:32:49 | SK 23 : Prihlásenie. 
+2021-04-08 22:08:05 | SK 23 : Prihlásenie. 
+2021-04-09 13:05:28 | SK 23 : Nový odpočet: 166/21 
+2021-04-13 09:39:15 | SK 23 : Prihlásenie. 
+2021-04-13 09:55:01 | SK 23 : Prihlásenie. 
+2021-04-13 20:57:06 | SK 23 : Prihlásenie. 
+2021-04-16 15:11:23 | SK 23 : Nový odpočet: 167/21 
+2021-04-23 08:53:35 | SK 23 : Nový odpočet: 168/21 
+2021-04-23 08:58:20 | SK 23 : Odhlásenie. 
+2021-05-01 16:42:50 | SK 23 : Nový odpočet: 169/21 
+2021-05-01 16:49:53 | SK 23 : Odhlásenie. 
+2021-05-03 11:34:07 | SK 23 : Prihlásenie. 
+2021-05-03 11:35:43 | SK 23 : Odhlásenie. 
+2021-05-07 14:06:23 | SK 23 : Prihlásenie. 
+2021-05-07 14:07:34 | SK 23 : Nový odpočet: 170/21 
+2021-05-14 09:20:43 | SK 23 : Prihlásenie. 
+2021-05-14 09:22:17 | SK 23 : Nový odpočet: 171/21 
+2021-05-14 09:26:08 | SK 23 : Odhlásenie. 
+2021-05-22 16:00:43 | SK 23 : Prihlásenie. 
+2021-05-22 16:01:57 | SK 23 : Nový odpočet: 172/21 
+2021-05-22 20:43:12 | SK 23 : Odhlásenie. 
+2021-05-29 07:33:40 | SK 23 : Prihlásenie. 
+2021-05-29 07:34:27 | SK 23 : Nový odpočet: 173/21 
+2021-05-29 08:50:53 | SK 23 : Odhlásenie. 
+2021-06-04 09:49:16 | SK 23 : Prihlásenie. 
+2021-06-04 09:50:08 | SK 23 : Nový odpočet: 174/21 
+2021-06-04 09:52:58 | SK 23 : Odhlásenie. 
+2021-06-11 13:31:56 | SK 23 : Prihlásenie. 
+2021-06-11 13:33:31 | SK 23 : Nový odpočet: 175/21 
+2021-06-11 13:47:42 | SK 23 : Odhlásenie. 
+2021-06-11 16:30:18 | SK 23 : Prihlásenie. 
+2021-06-11 16:34:02 | SK 23 : Odhlásenie. 
+2021-06-18 11:49:43 | SK 23 : Prihlásenie. 
+2021-06-18 11:51:04 | SK 23 : Nový odpočet: 176/21 
+2021-06-25 11:25:10 | SK 23 : Nový odpočet: 177/21 
+2021-06-25 11:31:30 | SK 23 : Odhlásenie. 
+2021-07-02 13:12:35 | SK 23 : Prihlásenie. 
+2021-07-02 13:13:47 | SK 23 : Nový odpočet: 178/21 
+2021-07-02 13:17:41 | SK 23 : Odhlásenie. 
+2021-07-09 12:25:44 | SK 23 : Prihlásenie. 
+2021-07-09 12:28:15 | SK 23 : Nový odpočet: 179/21 
+2021-07-09 12:32:46 | SK 23 : Odhlásenie. 
+2021-07-24 05:12:04 | SK 23 : Prihlásenie. 
+2021-07-24 05:12:52 | SK 23 : Nový odpočet: 180/21 
+2021-07-24 05:16:19 | SK 23 : Nový odpočet: 181/21 
+2021-07-24 05:23:38 | SK 23 : Odhlásenie. 
+2021-07-30 13:57:58 | SK 23 : Prihlásenie. 
+2021-07-30 13:58:28 | SK 23 : Nový odpočet: 182/21 
+2021-08-12 12:38:37 | SK 23 : Prihlásenie. 
+2021-08-12 12:59:26 | SK 23 : Odhlásenie. 
+2021-08-14 05:45:16 | SK 23 : Prihlásenie. 
+2021-08-14 05:47:00 | SK 23 : Nový odpočet: 183/21 
+2021-08-18 15:58:40 | SK 23 : Prihlásenie. 
+2021-08-18 15:59:14 | SK 23 : Odhlásenie. 
+2021-08-29 14:38:58 | SK 23 : Prihlásenie. 
+2021-08-29 14:43:01 | SK 23 : Odhlásenie. 
+2021-08-29 14:43:46 | SK 23 : Prihlásenie. 
+2021-08-29 14:45:55 | SK 23 : Prihlásenie. 
+2021-08-29 14:48:13 | SK 23 : Odhlásenie. 
+2021-08-29 14:48:33 | SK 23 : Odhlásenie. 
+2021-08-29 14:49:14 | SK 23 : Prihlásenie. 
+2021-08-29 14:50:37 | SK 23 : Prihlásenie. 
+2021-08-30 03:49:38 | SK 23 : Odhlásenie. 
+2021-08-30 03:49:46 | SK 23 : Prihlásenie. 
+2021-08-30 03:50:15 | SK 23 : Odhlásenie. 
+2021-08-30 03:50:54 | SK 23 : Prihlásenie. 
+2021-08-30 04:43:02 | SK 23 : Prihlásenie. 
+2021-08-30 07:33:31 | SK 23 : Prihlásenie. 
+2021-08-30 15:39:01 | SK 23 : Odhlásenie. 
+2021-08-30 15:56:26 | SK 23 : Prihlásenie. 
+2021-08-31 07:50:37 | SK 23 : Odhlásenie. 
+2021-08-31 07:51:03 | SK 23 : Prihlásenie. 
+2021-08-31 07:51:09 | SK 23 : Odhlásenie. 
+2021-08-31 07:51:45 | SK 23 : Prihlásenie. 
+2021-08-31 07:51:55 | SK 23 : Odhlásenie. 
+2021-08-31 08:15:06 | SK 23 : Prihlásenie. 
+2021-08-31 08:22:48 | SK 23 : Prihlásenie. 
+2021-08-31 08:24:07 | SK 23 : Prihlásenie. 
+2021-08-31 08:28:18 |  : Odhlásenie. 
+2021-08-31 08:28:26 | SK 23 : Prihlásenie. 
+2021-08-31 08:28:32 | SK 23 : Odhlásenie. 
+2021-08-31 08:28:45 | SK 23 : Prihlásenie. 
+2021-08-31 08:44:57 | SK 23 : Odhlásenie. 
+2021-08-31 08:45:19 | SK 23 : Prihlásenie. 
+2021-08-31 10:37:24 | SK 23 : Nový odpočet: 184/21 
+2021-09-02 14:49:58 | SK 23 : Nový odpočet: 185/21 
+2021-09-03 13:59:09 | SK 23 : Nový odpočet: 186/21 
+2021-09-03 18:47:00 | SK 23 : Nový odpočet: 187/21 
+2021-09-07 18:59:05 | SK 23 : Prihlásenie. 
+2021-09-08 05:58:24 | SK 23 : Prihlásenie. 
+2021-09-08 06:15:03 | SK 23 : Prihlásenie. 
+2021-09-09 09:38:41 | SK 23 : Prihlásenie. 
+2021-09-10 05:52:25 | SK 23 : Prihlásenie. 
+2021-09-13 06:41:48 |  : Nový odpočet: /21 
+2021-09-13 20:02:36 | SK 23 : Užívateľ "kingus" editovaný. 
+2021-09-13 20:02:52 | SK 23 : Odhlásenie. 
+2021-09-13 20:03:18 | SK 23 : Prihlásenie. 
+2021-09-13 20:04:43 | SK 23 : Užívateľ "kingus" editovaný. 
+2021-09-13 20:04:52 | SK 23 : Odhlásenie. 
+2021-09-13 20:05:35 | SK 23 : Prihlásenie. 
+2021-09-15 00:12:38 | SK 23 : Užívateľ "jannovy" vytvorený. 
+2021-09-15 00:13:21 | SK 23 : Užívateľ "jannovy" editovaný. 
+2021-09-15 00:13:42 | SK 23 : Odhlásenie. 
+2021-09-15 00:13:57 | JN 32 : Prihlásenie. 
+2021-09-15 00:17:07 | JN 32 : Odhlásenie. 
+2021-09-15 00:17:18 | SK 23 : Prihlásenie. 
+2021-09-15 01:41:39 | SK 23 : Prihlásenie. 
+2021-09-15 01:41:59 | SK 23 : Odhlásenie. 
+2021-09-16 06:28:39 | SK 23 : Užívateľ "jannovy" editovaný. 
+2021-09-16 06:29:33 | SK 23 : Užívateľ "jannovy" editovaný. 
+2021-09-16 06:30:31 | SK 23 : Odhlásenie. 
+2021-09-16 06:30:44 | JN 32 : Prihlásenie. 
+2021-09-16 06:31:26 | JN 32 : Užívateľ "kingus" editovaný. 
+2021-09-16 06:31:38 | JN 32 : Užívateľ "kingus" editovaný. 
+2021-09-16 06:31:51 | JN 32 : Užívateľ "kingus" editovaný. 
+2021-09-16 06:32:53 | JN 32 : Odhlásenie. 
+2021-09-16 06:33:00 | SK 23 : Prihlásenie. 
+2021-09-16 09:01:35 | SK 23 : Užívateľ "ketlin" vytvorený. 
+2021-09-16 09:01:51 | SK 23 : Užívateľ "ketlin" odstránený. 
+2021-09-17 11:08:22 | SK 23 : Odhlásenie. 
+2021-09-17 11:36:55 | SK 23 : Prihlásenie. 
+2021-09-17 11:44:31 | SK 23 : Odhlásenie. 
+2021-09-17 12:00:15 | SK 23 : Odhlásenie. 
+2021-09-17 12:00:39 | SK 23 : Prihlásenie. 
+2021-09-17 12:05:01 | SK 23 : Prihlásenie. 
+2021-09-17 12:06:31 | SK 23 : Odhlásenie. 
+2021-09-17 15:14:31 |  : Nový odpočet: /21 
+2021-09-17 15:18:57 | SK 23 : Odhlásenie. 
+2021-09-17 15:37:18 | SK 23 : Prihlásenie. 
+2021-09-18 06:34:59 | SK 23 : Prihlásenie. 
+2021-09-20 07:14:46 | SK 23 : Prihlásenie. 
+2021-09-21 04:08:04 |  : Nový cenník:  bol vytvorený. 
+2021-09-21 06:31:11 | SK 23 : Prihlásenie. 
+2021-09-21 07:06:18 | SK 23 : Prihlásenie. 
+2021-09-21 09:46:09 |  : Nový cenník:  bol vytvorený. 
+2021-09-21 22:32:41 | SK 23 : Odhlásenie. 
+2021-09-21 22:38:02 | SK 23 : Prihlásenie. 
+2021-09-21 22:48:44 | SK 23 : Odhlásenie. 
+2021-09-21 22:52:58 | SK 23 : Prihlásenie. 
+2021-09-22 07:59:36 | SK 23 : Prihlásenie. 
+2021-09-22 15:35:48 | SK 23 : Prihlásenie. 
+2021-09-24 07:16:57 | SK 23 : Odhlásenie. 
+2021-09-24 07:17:05 | SK 23 : Prihlásenie. 
+2021-09-24 12:58:12 | SK 23 : Odhlásenie. 
+2021-09-24 12:58:25 | SK 23 : Prihlásenie. 
+2021-09-24 13:09:19 | SK 23 : Odhlásenie. 
+2021-09-24 13:09:29 | SK 23 : Prihlásenie. 
+2021-09-24 13:26:38 |  : Nový odpočet: /21 
+2021-09-25 09:35:12 | SK 23 : Odhlásenie. 
+2021-09-25 09:35:23 | SK 23 : Prihlásenie. 
+2021-09-25 14:22:14 | SK 23 : Odhlásenie. 
+2021-09-25 14:37:53 | SK 23 : Prihlásenie. 
+2021-09-25 18:48:56 | SK 23 : Odhlásenie. 
+2021-09-25 18:49:13 | SK 23 : Prihlásenie. 
+2021-09-25 19:56:37 | SK 23 : Odhlásenie. 
+2021-09-25 19:56:46 | SK 23 : Prihlásenie. 
+2021-09-26 20:52:41 | SK 23 : Odhlásenie. 
+2021-09-26 20:52:53 | SK 23 : Prihlásenie. 
+2021-09-26 21:19:42 | SK 23 : Prihlásenie. 
+2021-09-26 21:25:00 | SK 23 : Prihlásenie. 
+2021-09-26 21:30:58 | SK 23 : Prihlásenie. 
+2021-09-26 22:22:28 | SK 23 : Odhlásenie. 
+2021-09-26 22:24:29 | SK 23 : Prihlásenie. 

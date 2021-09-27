@@ -1,0 +1,11 @@
+/* Errors output styles */
+
+.errors {
+    font-style: italic;
+/*     margin-left: 130px; */
+    color: $red;
+  }
+  
+  #user_edit {
+    float: right;
+  }
